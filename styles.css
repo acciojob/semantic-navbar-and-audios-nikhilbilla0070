@@ -1,25 +1,2 @@
 
 /* Your CSS Code here. */
- nav {
-      background-color: lightgray;
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
-      height: 50px;
-    }
-    nav ul {
-      list-style: none;
-      display: flex;
-    }
-    nav a {
-      text-decoration: none;
-      color: black;
-      padding: 10px;
-      font-size: 18px;
-    }
-    .audio-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-top: 50px;
-    }
